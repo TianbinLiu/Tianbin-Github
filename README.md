@@ -2,7 +2,7 @@
 <table>
    <tr>
     <th>Week</th>
-    <th>Stand Up Theme</th>
+    <th>College Board</th>
     <th>Test Prep</th>
     <th>Tech Talk</th>
     <th>Canvas</th>
