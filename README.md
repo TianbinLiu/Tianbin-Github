@@ -1,13 +1,13 @@
 # Time Box
 <table>
    <tr>
-    <th>College Board</th>
+    <th></th>
     <th></th>
     <th></th>
     <th></th>
    </tr>
    <tr>
-    <td><a href="https://github.com/TianbinLiu/tianbin/wiki/College-Board-1.1-1.2">Notes</a></td>
+    <td><a href=""></a></td>
     <td></td>
     <td></td>
     <td></td>
