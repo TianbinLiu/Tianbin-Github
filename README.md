@@ -1,7 +1,7 @@
 # Notes of Collegeboard video
 <table>
    <tr>
-    <th><a href=""></a></th>
+    <th><a href=""></a>5.1-5.2</th>
     <th><a href=""></a></th>
     <th><a href=""></a></th>
     <th><a href=""></a></th>
