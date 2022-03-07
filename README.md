@@ -1,8 +1,8 @@
 # Time Box
 <table>
    <tr>
-    <th>Week0</th>
-    <th>Week1</th>
+    <th></th>
+    <th></th>
     <th></th>
     <th></th>
    </tr>
