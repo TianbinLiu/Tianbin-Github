@@ -1,5 +1,5 @@
 # Time Box Tri 3
-<table style="background-color:rgba(0, 0, 0, 0.5);">
+<table>
    <tr>
     <th>Week</th>
     <th>Dates</th>
