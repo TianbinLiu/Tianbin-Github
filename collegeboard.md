@@ -7,16 +7,13 @@ titile: collegeboard
 # Notes of Collegeboard video
 <table>
    <tr>
-    <th>Number</th>
+    <th>Number list</th>
    </tr>
    
    <tr>
     <td>Collegeboard [5.1](5.1)</td>
-    <td>Collegeboard [5.2](5.2)</td>
-    <td>none</td>
-    <td>none</td>
-    <td>none</td>
-    <td>none</td>
    </tr>
-
-
+   
+   <tr>
+    <td>Collegeboard [5.2](5.2)</td>
+   </tr>
