@@ -1,6 +1,5 @@
 # Time Box Tri 3
-<button onclick="toggleText()">button</button>
-<table id="Myid">
+<table>
    <tr>
     <th>Week</th>
     <th>Dates</th>
@@ -230,14 +229,3 @@
     <td><a href="https://poway.instructure.com/courses/112435/assignments/1943423">Project Approval</a></td>
   </tr>
 </table>
-
-<script>
-function toggleText(){
-  var x = document.getElementById("Myid");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
