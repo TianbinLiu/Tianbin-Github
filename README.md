@@ -1,5 +1,6 @@
 # Time Box Tri 3
-<table>
+<button onclick="toggleText()">button</button>
+<table id="Myid">
    <tr>
     <th>Week</th>
     <th>Dates</th>
@@ -230,3 +231,13 @@
   </tr>
 </table>
 
+<script>
+function toggleText(){
+  var x = document.getElementById("Myid");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
