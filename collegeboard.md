@@ -11,10 +11,10 @@ titile: collegeboard
    </tr>
    
    <tr>
-    <td>Collegeboard [5.1](5.1)</td>
+    <td>Collegeboard <a href="5.1">5.1</a></td>
    </tr>
    
    <tr>
-    <td>Collegeboard [5.2](5.2)</td>
+    <td>Collegeboard <a href="5.2">5.2</a></td>
    </tr>
 
