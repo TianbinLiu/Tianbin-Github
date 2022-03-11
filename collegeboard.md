@@ -11,7 +11,7 @@ titile: collegeboard
    </tr>
    
    <tr>
-    <td>Collegeboard [About page](5.1)</td>
+    <td>Collegeboard [5.1](5.1)</td>
    </tr>
    
    <tr>
