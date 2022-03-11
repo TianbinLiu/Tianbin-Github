@@ -4,6 +4,7 @@ titile: collegeboard
 
 {% include navigation.html %}
 # Notes of Collegeboard video
+{% include background2.html %}
 <table>
    <tr>
     <th>Number list</th>
@@ -16,4 +17,4 @@ titile: collegeboard
    <tr>
     <td>Collegeboard [5.2](5.2)</td>
    </tr>
-{% include background2.html %}
+
