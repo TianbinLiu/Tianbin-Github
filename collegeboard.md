@@ -1,8 +1,9 @@
 ---
 titile: collegeboard
+layouts: default
 ---
 
-{% include navigation.html %}
+
 # Notes of Collegeboard video
 {% include background2.html %}
 <table>
