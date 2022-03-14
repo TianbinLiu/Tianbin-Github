@@ -6,10 +6,11 @@ title: code
 
 <table>
    <tr>
-    <th>Week 0</th>
-
+    <th>Week</th>
+    <th>Review Ticket</th>
    </tr>
    
    <tr>
+    <td>0</td>
     <td>Review ticket</td>
    </tr>
