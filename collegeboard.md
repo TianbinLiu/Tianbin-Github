@@ -1,6 +1,5 @@
 ---
 titile: collegeboard
-layout: default
 ---
 
 <div id="video_wrapper">
