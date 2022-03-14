@@ -12,5 +12,5 @@ title: code
    
    <tr>
     <td>0</td>
-    <td>Review ticket</td>
+    <td><a href="https://github.com/vaishavijay/pain.github.io/issues/2">Review ticket</td>
    </tr>
