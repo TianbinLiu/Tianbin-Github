@@ -7,7 +7,7 @@ title: week
    <tr>
     <th>Week</th>
     <th>Review Ticket</th>
-    <th>Code</th>
+    <th><a href="code">Review ticket</a>Code</th>
    </tr>
    
    <tr>
