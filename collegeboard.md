@@ -1,6 +1,6 @@
 ---
 titile: collegeboard
-layouts: default
+layout: default
 ---
 
 
