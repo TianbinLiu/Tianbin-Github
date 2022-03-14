@@ -12,5 +12,5 @@ title: code
    
    <tr>
     <td>0</td>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/1">Review ticket</td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/1">Review ticket</a></td>
    </tr>
