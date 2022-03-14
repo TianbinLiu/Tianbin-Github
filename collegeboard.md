@@ -10,7 +10,6 @@ layout: default
 </div>
 
 # Notes of Collegeboard video
-{% include background2.html %}
 <table>
    <tr>
     <th>Number list</th>
