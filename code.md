@@ -23,7 +23,7 @@ title: code
 * CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/head-custom2.html)
 
 ```html
-<!-- added in layouts-->
+<!-- CSS in head-custom2.html added into layouts-->
 <style>
 #video_wrapper {
     margin:0px;
@@ -40,6 +40,12 @@ title: code
     transform: translate(-50%, -50%);
 }
 </style>
+```
+
+* CSS added into layout to apply the whole GitHub Page [default.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_layouts/default.html)
+
+```html
+{% include navigation.html %}
 ```
 
 * Menu [navigation.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/navigation.html)
