@@ -9,7 +9,7 @@ title: code
 </div>
 ##Week 0
 
-* HTML Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/head-custom2.html)
+* HTML Code [index.md](https://github.com/TianbinLiu/Tianbin-Github/edit/main/index.md)
 
 ```html
 <!-- added to file that need video background-->
@@ -20,10 +20,10 @@ title: code
 </div>
 ```
 
-* CSS Code [index.md](https://github.com/TianbinLiu/Tianbin-Github/edit/main/index.md)
+* CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/head-custom2.html)
 
 ```html
-<!-- added to file that need video background-->
+<!-- added in layouts-->
 <style>
 #video_wrapper {
     margin:0px;
