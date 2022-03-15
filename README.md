@@ -8,7 +8,7 @@
    <tr>
     <td>0</td>
     <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/1">Review ticket</a></td>
-    <td></td>
+    <td><a href="https://tianbinliu.github.io/Tianbin-Github/code#:~:text=%22Easter%20egg%22-,%23%23Week%200,-HTML%20Code%20index">Week0 Code snippets</a></td>
    </tr>
   
    <tr>
