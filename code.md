@@ -41,3 +41,19 @@ title: code
 }
 </style>
 ```
+
+* Menu [navigation.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/navigation.html)
+
+```html
+<!-- added to file that need video background-->
+ <table>
+     <tr>
+         <td><a href=".">Home</a></td>
+         <td><a href="collegeboard">Collegeboard video</a></td>
+         <td><a href="replit">Replit menu</a></td>
+         <td><a href="create">Create task project</a></td>
+         <td><a href="code">Code</a></td>
+     </tr>
+ </table>
+ <hr>
+```
