@@ -4,7 +4,7 @@ title: create
 
 <div id="video_wrapper">
   <video autoplay loop>
-    <source src="https://drive.google.com/uc?export=view&id=1Qote5m--Bme0bE4_o6wAKNRxWY8pJnuL" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=view&id=1idbQ2eTGFnKzJSk-pNht0dq_G4SNuLuS" type="video/mp4">
   </video>
 </div>
 <center><iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@TianbinLiu/Menu?lite=true"></center>
