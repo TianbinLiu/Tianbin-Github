@@ -18,52 +18,55 @@
  　　　　　 　　　'ｰ'　　!_,.
  ****************************************************************************************************/
 const live2d_settings = {
-    // 基本设置
-    'modelUrl': 'model',                        // 存放模型的文件夹路径，末尾不需要斜杠
-    'tipsMessage': 'waifu-tips.json',           // 看板娘提示消息文件的路径，可以留空不加载
-    // 模型设置
-    'modelName': 'paimon',                      // 默认加载的模型名称，仅在无本地记录的情况下有效
-    'modelStorage': true,                       // 记忆模型，下次打开页面会加载上次选择的模型
-    'modelRandMode': false,                     // 随机切换模型
-    'preLoadMotion': true,                      // 是否预载动作数据，只对 model3 模型有效，不预载可以提高 model3 模型的加载速度，但可能导致首次触发动作时卡顿
-    'tryWebp': true,                            // 如果浏览器支持 WebP 格式，将优先加载 WebP 格式的贴图，例如默认贴图文件为 klee.8192/texture_00.png，
-                                                // 启用后将优先加载 klee.8192/texture_00.png.webp，文件不存在会自动 fallback
-    // 工具栏设置
-    'showToolMenu': true,                       // 显示 工具栏
-    'canCloseLive2d': true,                     // 显示 关闭看板娘 按钮
-    'canSwitchModel': true,                     // 显示 模型切换 按钮
-    'canSwitchHitokoto': true,                  // 显示 一言切换 按钮
-    'canTakeScreenshot': true,                  // 显示 看板娘截图 按钮
-    'canTurnToHomePage': true,                  // 显示 返回首页 按钮
-    'canTurnToAboutPage': true,                 // 显示 跳转关于页 按钮
-    'showVolumeBtn': false,                     // 显示 音量控制 按钮，仅作显示，相关逻辑需自己实现
-    // 提示消息设置
-    'showHitokoto': true,                       // 空闲时显示一言
-    'hitokotoAPI': '',                          // 一言 API，可选 'hitokoto.cn'(默认), 'lwl12.com', 'jinrishici.com'(古诗词), 'fghrsh.net'
-    'showWelcomeMessage': true,                 // 显示进入页面欢迎词
-    'showCopyMessage': true,                    // 显示复制内容提示，默认只对 '#articleContent' 元素内的复制进行监视，如果你的文章内容不在这个标签下，可以在下方搜索并修改
-    'showF12OpenMsg': true,                     // 显示控制台打开提示
-    //看板娘样式设置
-    'live2dHeight': 680,                        // 看板娘高度，不需要单位
-    'live2dWidth': 500,                         // 看板娘宽度，不需要单位
-    'waifuMinWidth': 'disable',                 // 页面小于宽度小于指定数值时隐藏看板娘，例如 'disable'(禁用)，推荐 '1040px'
-    'waifuEdgeSide': 'right:0',                 // 看板娘贴边方向，例如 'left:0'(靠左 0px)，'right:30'(靠右 30px)，可以被下面的模型设置覆盖
-    // 其他杂项设置
-    'debug': true,                              // 全局 DEBUG 设置
-    'debugMousemove': false,                    // 在控制台打印指针移动坐标，仅在 debug 为 true 时可用
-    'logMessageToConsole': true,                // 在控制台打印看板娘提示消息
-    'l2dVersion': '2.0.0',                      // 当前版本
-    'homePageUrl': 'https://rivens.bronya.moe/',  // 主页地址，可选 'auto'(自动), '{URL 网址}'
-    'aboutPageUrl': 'https://github.com/Konata09/Live2dOnWeb/', // 关于页地址, '{URL 网址}'
-    'screenshotCaptureName': 'bronyaMoe.png',   // 看板娘截图文件名，例如 'live2d.png'
+    // basic
+    'modelUrl': 'model',                        // URL of a directory which consists of all model folder. NO slash in the end
+    'tipsMessage': 'waifu-tips.json',           // message tips file. Can leave blank
+    // model
+    'modelName': 'paimon',                      // default model name when first visit website
+    'modelStorage': true,                       // save model name in broswer
+    'modelRandMode': false,                     // random switching model
+    'preLoadMotion': false,                     // weather preload motion file. ONLY valid for model3 file,
+                                                // not preloading may increase model loading speed, but it may cause jank when trigger motion.
+    'tryWebp': true,                            // if broswer support WebP format, will try to load Webp texture first,
+                                                // eg. origin texture file is klee.8192/texture_00.png, if enabled, will load klee.8192/texture_00.png.webp FIRST
+                                                // will fallback to load origin file if any error occured 
+    // tool menu
+    'showToolMenu': true,                       // show tools
+    'canCloseLive2d': true,                     // show close button
+    'canSwitchModel': true,                     // show switch button
+    'canSwitchHitokoto': true,                  // show switch Hitokoto button
+    'canTakeScreenshot': true,                  // show screenshot button
+    'canTurnToHomePage': true,                  // show home button
+    'canTurnToAboutPage': true,                 // show about button
+    'showVolumeBtn': false,                     // show volume control button, you could implement other logic yourself
+    // message tips
+    'showHitokoto': true,                       // show Hitokoto when inactive for 30 seconds
+    'hitokotoAPI': '',                          // Hitokoto API, can be 'hitokoto.cn'(default), 'lwl12.com', 'jinrishici.com', 'fghrsh.net'
+    'showWelcomeMessage': true,                 // show welcome message
+    'showF12OpenMsg': true,                     // show message when open console
+    'showCopyMessage': true,                    // show copy message. By default it watching copy operation inside '#articleContent' element,
+                                                // if your article content is not under this tag, you could search and modify it below.
+    // style
+    'live2dHeight': 680,                        // height of Live2D model, NO 'px' in the end
+    'live2dWidth': 500,                         // width of Live2D model, NO 'px' in the end
+    'waifuMinWidth': '1040px',                  // hide model when window width less than setting, eg, '1040px' (Recommend) or 'disable'
+    'waifuEdgeSide': 'right:0',                 // position of model, eg, 'left:0' or 'right:30', can be override by model setting
+    // misc
+    'debug': false,                             // global debug setting
+    'debugMousemove': false,                    // log cursor postion to console, valid if debug is true
+    'logMessageToConsole': true,                // log message tips to console
+    'l2dVersion': '2.0.0',                      // script version
+    'homePageUrl': 'https://rivens.bronya.moe/',  // homepage, could be URL or 'auto'
+    'aboutPageUrl': 'https://github.com/Konata09/Live2dOnWeb/', // about page
+    'screenshotCaptureName': 'bronyaMoe.png',   // filename of screenshot, eg, 'live2d.png'
 }
-// 模型列表
+
 const live2d_models = [
     {
-        name: 'paimon',                                     // 模型名称要与文件夹名相同
-        message: 'SDK4 Emergency Food bilibili@根瘤菌rkzj',  // 切换时的提示信息
-        version: 3,                                         // 模型版本，model3.json 结尾的都填3，model.json 结尾的填2
-        // position: 'left'                                 // 此模型的显示位置，会覆盖上面的全局设置，只对此模型生效
+        name: 'paimon',                                     // model name, should be same as folder name
+        message: 'SDK4 Emergency Food bilibili@根瘤菌rkzj',  // meassage when switch to this model
+        version: 3,                                         // model verion, different version has differnt entry file： 2: model.json , 3: FolderName.model3.json
+        // position: 'left'                                 // position of this model
     },
     {
         name: 'miku',
