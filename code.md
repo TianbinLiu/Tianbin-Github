@@ -87,3 +87,24 @@ title: code
   </head>
 ```
 
+* CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/blob/main/_includes/head-custom2.html)
+
+```html
+<!-- moved css to that page-->
+<style>
+#video_wrapper {
+    margin:0px;
+    padding:0px;
+}
+#video_wrapper video {
+    position: fixed;
+    top: 50%; left: 50%;
+    z-index: -99; important!
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+</style>
+```
