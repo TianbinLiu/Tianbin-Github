@@ -22,9 +22,9 @@
   
    <tr>
     <td>2</td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/3">Review ticket</a></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://replit.com/@TianbinLiu/Menu#TT2/prime.py:1:0">Code snippets</a></td>
    </tr>
   
    <tr>
