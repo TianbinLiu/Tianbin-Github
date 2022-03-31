@@ -110,9 +110,9 @@ def _adventure_menu():
 
 def driver():
     title = "Main Menu"
-    menu_list = [["Data (matrix, ship, swap, tree)", _data_menu],
-                 ["Math (fibonacci, gamelist)", _math_menu],
-                 ["Adventure (advy, factor, fibonacci_class, prime)", _adventure_menu]]
+    menu_list = [["Data (Matrix, Ship, Swap, Tree, Gamelist)", _data_menu],
+                 ["Math (Factors, GCD, LCM, Prime, Fibonacci, Fibonacci_Class, )", _math_menu],
+                 ["Adventure (Beach, Mountains, Lake)", _adventure_menu]]
     menu(title, menu_list)
 
 
