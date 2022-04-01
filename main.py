@@ -3,7 +3,7 @@
 # each import enables us to use logic that has been abstracted to other files and folders
 from TT0 import matrix, swap, tree, ship
 from TT1 import gamelist, fibonacci
-from TT2 import factor, fibonacci_class, advy, prime
+from TT2 import factor, fibonacci_class, advy, prime, palindrome
 
 # Menu list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
@@ -23,7 +23,8 @@ math_menu = [
     ["LCM", factor.lcm],
     ["Primes", prime.primes],
     ["Fibonacci", fibonacci.fibonacci],
-    ["Fibonacci Class", fibonacci_class.fclass]
+    ["Fibonacci Class", fibonacci_class.fclass],
+    ["Paliindrome", palindrome.palindrome]
 ]
 
 adventure_menu = [
@@ -111,7 +112,7 @@ def _adventure_menu():
 def driver():
     title = "Main Menu"
     menu_list = [["Data (Matrix, Ship, Swap, Tree, Gamelist)", _data_menu],
-                 ["Math (Factors, GCD, LCM, Prime, Fibonacci, Fibonacci_Class, )", _math_menu],
+                 ["Math (Factors, GCD, LCM, Prime, Fibonacci, Fibonacci_Class, Palindrome, )", _math_menu],
                  ["Adventure (Beach, Mountains, Lake)", _adventure_menu]]
     menu(title, menu_list)
 
