@@ -24,7 +24,7 @@ math_menu = [
     ["Primes", prime.primes],
     ["Fibonacci", fibonacci.fibonacci],
     ["Fibonacci Class", fibonacci_class.fclass],
-    ["Paliindrome", palindrome.palindrome]
+    ["Palindrome", palindrome.paltest]
 ]
 
 adventure_menu = [
