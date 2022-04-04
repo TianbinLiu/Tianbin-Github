@@ -7,9 +7,9 @@ title: code
     <source src="https://drive.google.com/uc?export=view&id=1lDrbQtLYGj79HjdD-icfLel9xTnVn-T7" type="video/mp4">
   </video>
 </div>
-## Week 0
+# Week 0
 
-* HTML Code [index.md](https://github.com/TianbinLiu/Tianbin-Github/edit/main/index.md)
+## HTML Code [index.md](https://github.com/TianbinLiu/Tianbin-Github/edit/main/index.md)
 
 ```html
 <!-- added to file that need video background-->
@@ -20,7 +20,7 @@ title: code
 </div>
 ```
 
-* CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/head-custom2.html)
+## CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/head-custom2.html)
 
 ```html
 <!-- CSS in head-custom2.html added into layouts-->
@@ -42,13 +42,13 @@ title: code
 </style>
 ```
 
-* CSS added into layout to apply the whole GitHub Page [default.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_layouts/default.html)
+## CSS added into layout to apply the whole GitHub Page [default.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_layouts/default.html)
 
 ```html
 {% include navigation.html %}
 ```
 
-* Menu [navigation.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/navigation.html)
+## Menu [navigation.html](https://github.com/TianbinLiu/Tianbin-Github/edit/main/_includes/navigation.html)
 
 ```html
 <!-- added to file that need video background-->
@@ -64,8 +64,8 @@ title: code
  <hr>
 ```
 
-## Week 1
-* HTML Code [default.html](https://github.com/TianbinLiu/Tianbin-Github/blob/main/_layouts/default.html)
+# Week 1
+## HTML Code [default.html](https://github.com/TianbinLiu/Tianbin-Github/blob/main/_layouts/default.html)
 
 ```html
 <!-- added layout and apply to GitHub page-->
@@ -87,7 +87,7 @@ title: code
   </head>
 ```
 
-* CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/blob/main/_includes/head-custom2.html)
+## CSS Code [head-custom2.html](https://github.com/TianbinLiu/Tianbin-Github/blob/main/_includes/head-custom2.html)
 
 ```html
 <!-- moved css to that page-->
