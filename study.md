@@ -22,5 +22,5 @@
    </tr>
   
    <tr>
-    <td><a href="# Week 7">Week7</a></td>
+    <td><a href="# Week 7">Week 7</a></td>
    </tr>
