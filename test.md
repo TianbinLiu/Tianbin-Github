@@ -10,15 +10,19 @@
    </tr>
    
    <tr>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score50-and-corrections">Finals-Quiz1 score 43/50 and corrections</a></td>
+    <td><a href="hthttps://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score4350-and-corrections">Finals-Quiz1 score 43/50 and corrections</a></td>
    </tr>
 
   
    <tr>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz2-score50-and-corrections">Finals-Quiz2 score 46/50 and corrections</a></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score4650-and-corrections">Finals-Quiz2 score 46/50 and corrections</a></td>
    </tr>
   
   
    <tr>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score50-and-reflections">Finals-Quiz2 score 43/50 and reflections</a></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score4350-and-reflections">Finals-Quiz1 score 43/50 and reflections</a></td>
+   </tr>
+  
+   <tr>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score4650-and-reflections">Finals-Quiz2 score 46/50 and reflections</a></td>
    </tr>
