@@ -15,7 +15,7 @@
 
   
    <tr>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score4650-and-corrections">Finals-Quiz2 score 46/50 and corrections</a></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz2-score4650-and-corrections">Finals-Quiz2 score 46/50 and corrections</a></td>
    </tr>
   
   
