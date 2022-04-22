@@ -40,7 +40,7 @@
     <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/7">Review ticket</a></td>
     <td></td>
     <td></td>
-    <td><a href="# week 4">Study Plan</a></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/Study-Plan#week-4">Study Plan</a></td>
    </tr>
    
    <tr>
