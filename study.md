@@ -1,6 +1,6 @@
 <div id="video_wrapper">
   <video autoplay loop>
-    <source src="https://drive.google.com/uc?export=view&id=1yu8vMieQ1izOmW9Vj1zJ3ybCQw_AVsLT" type="video/mp4">
+    <source src="https://drive.google.com/uc?export=view&id=1C8QEvCYMdGP_1mm2GtGWL9UhT2AfkEU5" type="video/mp4">
   </video>
 </div>
 
