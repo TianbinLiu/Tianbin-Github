@@ -4,6 +4,7 @@
     <th><a href="https://github.com/TianbinLiu/Tianbin-Github/issues">Review Ticket</a></th>
     <th><a href="code">Code</a></th>
     <th><a href="replit">Replit code snippets</a></th>
+    <th><a href="study">Study Plan</a></th>
    </tr>
    
    <tr>
@@ -36,6 +37,21 @@
   
    <tr>
     <td>4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   
+   <tr>
+    <td>5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   
+   <tr>
+    <td>6</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
