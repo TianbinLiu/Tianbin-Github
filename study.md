@@ -10,17 +10,17 @@
    </tr>
    
    <tr>
-    <td><a href="">Week 4</a></td>
+    <td><a href="# Week 4">Week 4</a></td>
    </tr>
    
    <tr>
-    <td><a href="">Week 5</a></td>
+    <td><a href="# Week 5">Week 5</a></td>
    </tr>
   
    <tr>
-    <td><a href="">Week 6</a></td>
+    <td><a href="# Week 6">Week 6</a></td>
    </tr>
   
    <tr>
-    <td><a href="">"Week7</a></td>
+    <td><a href="# Week 7">"Week7</a></td>
    </tr>
