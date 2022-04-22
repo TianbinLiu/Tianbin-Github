@@ -10,9 +10,9 @@
    </tr>
    
    <tr>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/Study-Plan#week-4">Finals-Quiz1 score/50 and corrections</a></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score50-and-corrections">Finals-Quiz1 score/50 and corrections</a></td>
    </tr>
 
    <tr>
-    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/Study-Plan#week-4">Finals-Quiz2 score/50 and reflections</a></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/AP-Testers#finals-quiz1-score50-and-reflections">Finals-Quiz2 score/50 and reflections</a></td>
    </tr>
