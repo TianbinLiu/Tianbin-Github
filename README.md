@@ -30,7 +30,7 @@
   
    <tr>
     <td>3</td>
-    <td></td>
+    <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/6">Review ticket</a></td>
     <td></td>
     <td></td>
    </tr>
