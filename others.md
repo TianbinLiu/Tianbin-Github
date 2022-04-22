@@ -16,5 +16,9 @@
    </tr>
   
    <tr>
-    <td><a href="easteregg">"Easter Egg</a></td>
+    <td><a href="easteregg">"Easter Egg"</a></td>
+   </tr>
+   
+   <tr>
+    <td><a href="study">Study Plan</a></td>
    </tr>
