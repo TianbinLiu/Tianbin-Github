@@ -58,4 +58,7 @@ def newTurtle():
 def move(t):
 t.turn(random.randint (-45, 45))
 t.forward(50)
+...
 ```
+![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAP3Coordinates.png?raw=true)
+
