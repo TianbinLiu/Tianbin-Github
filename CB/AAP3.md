@@ -70,3 +70,11 @@ t.forward(50)
 
 * Let them run around and see what happens
 ![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAp3Simulation.png?raw=true)
+
+
+## Example 4: Simulation
+* Same simulation but ... now if two turtles are near each other, then one of them hides
+  * hide the turtle
+  * hide the path
+* Let them run around and see what happens
+![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAP3Simulation2.png?raw=true)
