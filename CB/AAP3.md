@@ -18,3 +18,4 @@ def newTurtle():
   t = makeTurtle(w)
   return t
 ```
+* now  t = newTurtles()  creates a world, turtle and returns it
