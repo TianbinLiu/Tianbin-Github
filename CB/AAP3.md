@@ -62,3 +62,11 @@ t.forward(50)
 ```
 ![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAP3Coordinates.png?raw=true)
 
+
+## Example 3: Simulation
+* Create a number of turtles
+  * Each moves a different direction (randomly selected)
+  * Each a different color
+
+* Let them run around and see what happens
+![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAP3Simulation.png?raw=true)
