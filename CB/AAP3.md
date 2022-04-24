@@ -78,3 +78,19 @@ t.forward(50)
   * hide the path
 * Let them run around and see what happens
 ![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAP3Simulation2.png?raw=true)
+
+
+## Example 5: CSPTurtle
+* Create an object oriented turtle that can keep some information internally
+  * counter that when turtle hides, it stays hidden for number of cycles, then comes back
+```html
+<!-- new methods -->
+# is t afraid of other
+t.afraid(other) : true/false
+
+# hide t
+t.hideMe()
+
+#run again (if enough time has lapsed)
+t.runAgain()
+```
