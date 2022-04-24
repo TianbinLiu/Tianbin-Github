@@ -39,3 +39,23 @@ def newTurtle():
 
 * functions also available as methods off the turtle itself
 * forward(t) - t.forward()
+
+### Information about each turtle
+
+* Each turtle has a series of attributes that are "stored" within the turtle 
+  * Location - each turtle has its own location   t.getXPos(),  t.getYPos()
+  * Color - each has its own color: t.setBody Color (red)
+  * Width of the pen: t.setPenWidth (2)
+  * Pen Up/Down: t.penDown() or t.penUp() or t.clearPath()
+  * Control visibility t.hide(), t.show(), t.isVisible()
+
+
+## Example 2: Move turtles
+* Create a world and put turtles in it
+* Define our own move that will move the turtle and turn randomly
+```html
+<!-- Define our own move -->
+def move(t):
+t.turn(random.randint (-45, 45))
+t.forward(50)
+```
