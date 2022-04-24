@@ -69,4 +69,4 @@ t.forward(50)
   * Each a different color
 
 * Let them run around and see what happens
-![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAP3Simulation.png?raw=true)
+![](https://github.com/TianbinLiu/Tianbin-Github/blob/github_pages/images/AAp3Simulation.png?raw=true)
