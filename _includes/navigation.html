@@ -69,6 +69,19 @@
             margin-top: -50px;
             /* aligns top of sub menu with top of list item */
         }
+        
+        ul#nav ul ul {
+            top:0;
+            left:100%;
+        }
+
+        ul#nav li:hover ul ul {
+            display:none;
+        }
+
+        ul#nav ul li:hover ul {
+            display:block;
+        }
     </style>
     </head>
     <ul id="nav">
