@@ -94,3 +94,10 @@ t.hideMe()
 #run again (if enough time has lapsed)
 t.runAgain()
 ```
+
+
+# Wrapping up
+* Functions can return values that can be used for other purposes
+* Functions can be used to build (encapsulate) common behavior to facilitate reuse
+* The names of the functions become like a mini language to describe the problem
+* Classes can encapsulate data/functions to make your code easier to read
