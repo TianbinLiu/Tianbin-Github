@@ -3,7 +3,7 @@
     <th>Week</th>
     <th><a href="https://github.com/TianbinLiu/Tianbin-Github/issues">Review Ticket</a></th>
     <th><a href="code">Code</a></th>
-    <th><a href="replit">Replit code snippets</a></th>
+    <th><a href="replit">Replit menu code snippets</a></th>
     <th><a href="study">Study Plan</a></th>
    </tr>
    
