@@ -261,9 +261,6 @@ title: code
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13381.121730992692!2d-117.13691915!3d33.02274155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1649547417678!5m2!1sen!2sus"  width="1500" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
-
-
-{% endblock %}
 ```
 
 ### HTML Code [cruddy](https://github.com/vaishavijay/pain.github.io/tree/main/cruddy)
