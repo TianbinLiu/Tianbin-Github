@@ -34,7 +34,7 @@
    <tr>
     <td>3</td>
     <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/6">Review ticket</a></td>
-    <td></td>
+    <td><a href="https://tianbinliu.github.io/Tianbin-Github/code#:~:text=%22Easter%20egg%22-,%23%23Week%200,-HTML%20Code%20index">GitHub Code</a></td>
     <td></td>
     <td>none</td>
    </tr>
@@ -42,7 +42,7 @@
    <tr>
     <td>4</td>
     <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/7">Review ticket</a></td>
-    <td></td>
+    <td><a href="https://tianbinliu.github.io/Tianbin-Github/code#:~:text=%22Easter%20egg%22-,%23%23Week%200,-HTML%20Code%20index">GitHub Code</a></td>
     <td></td>
     <td><a href="https://github.com/TianbinLiu/Tianbin-Github/wiki/Study-Plan#week-4">Study Plan</a></td>
    </tr>
@@ -50,7 +50,7 @@
    <tr>
     <td>5</td>
     <td><a href="https://github.com/TianbinLiu/Tianbin-Github/issues/8">Review ticket</a></td>
-    <td></td>
+    <td><a href="https://tianbinliu.github.io/Tianbin-Github/code#:~:text=%22Easter%20egg%22-,%23%23Week%200,-HTML%20Code%20index">GitHub Code</a></td>
     <td></td>
     <td></td>
    </tr>
