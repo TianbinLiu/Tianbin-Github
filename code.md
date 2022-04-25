@@ -65,7 +65,7 @@ title: code
  <hr>
 ```
 
-
+***
 
 ## Week 1
 ### HTML Code [default.html](https://github.com/TianbinLiu/Tianbin-Github/blob/main/_layouts/default.html)
@@ -112,7 +112,7 @@ title: code
 </style>
 ```
 
-
+***
 
 ## Week 3
 ### HTML Code [navigation.html](https://github.com/TianbinLiu/TianbinLiu.github.io/blob/github_pages/_includes/navigation.html)
@@ -210,20 +210,13 @@ title: code
 </style>
 ```
 
-
+***
 
 ## Week 4
 ### HTML Code [gmap.html](https://github.com/vaishavijay/pain.github.io/blob/main/templates/gmap.html)
 
 ```html
 <!-- add google map page into team project -->
-{% extends "layout.html" %}
-
-{% block meta %}
-<title>Google Map</title>
-{% endblock %}
-
-{% block content %}
 <style>
     h1 {
         width: 576px;
@@ -296,7 +289,7 @@ def logout():
     return render_template("index.html")
 ```
 
-
+***
 
 ## Week 5
 ### HTML Code [test.md](https://github.com/TianbinLiu/TianbinLiu.github.io/blob/github_pages/test.md)
