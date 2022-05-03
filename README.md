@@ -52,7 +52,7 @@
     <td><a href="https://github.com/TianbinLiu/TianbinLiu.github.io/issues/8">Review ticket</a></td>
     <td><a href="https://tianbinliu.github.io/code#:~:text=render_template(%22index.html%22)-,Week%205,-HTML%20Code%20test">GitHub Code</a></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/TianbinLiu/TianbinLiu.github.io/wiki/Study-Plan#:~:text=examples%20for%20it.-,5,-Monday">Study Plan</a></td>
    </tr>
    
    <tr>
