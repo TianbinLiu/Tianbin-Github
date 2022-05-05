@@ -60,7 +60,7 @@
     <td><a href="https://github.com/TianbinLiu/TianbinLiu.github.io/issues/9">Review ticket</a></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/TianbinLiu/TianbinLiu.github.io/wiki/Study-Plan#:~:text=the%20highest%20scores.-,6,-Monday">Study Plan</a></td>
    </tr>
    
    <tr>
