@@ -21,3 +21,7 @@
    <tr>
     <td><a href="https://github.com/TianbinLiu/TianbinLiu.github.io/wiki/AP-Testers#q8-algorithm-to-select-two-students-from-thirty">Finals-Weeks2-Quiz3 score46/50 and corrections</a></td>
    </tr>
+
+   <tr>
+    <td><a href="https://github.com/TianbinLiu/TianbinLiu.github.io/wiki/AP-Testers#finals-week3-quiz5-score4150-and-corrections">Finals-Weeks2-Quiz5 score41/50 and corrections</a></td>
+   </tr>
